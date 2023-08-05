@@ -12,6 +12,11 @@ run {
     //  important for taking input from console
     standardInput = System.in
 }
+jar {
+    manifest {
+        attributes 'Main-Class': application.mainClass
+    }
+}
 dependencies {
     // These dependency are used for Lombok annotation
     compileOnly 'org.projectlombok:lombok:1.18.28'
