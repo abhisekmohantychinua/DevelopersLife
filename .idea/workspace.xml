@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5100d49-fe09-470b-86ed-e2511417694c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/entities/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/entities/Task$TaskBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/entities/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/entities/TaskType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/storage/FileOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/ui/console/ConsoleUserInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/main/dev/abhisek/developerslife/utils/AppUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/test/dev/abhisek/developerslife/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2TZfSrPNMy5V4ZsWgiesBvUwCYK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/abhis",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5100d49-fe09-470b-86ed-e2511417694c" name="Changes" comment="" />
+      <created>1691255528876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691255528876</updated>
+      <workItem from="1691255534361" duration="17000" />
+    </task>
+    <servers />
+  </component>
+</project>
